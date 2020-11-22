@@ -4,7 +4,8 @@
 
 TODO
 
-- `*.csv` top-level CSVs are the processed files from the original data sources. 
+- `state-level` state-level forecasts  
+- `national-level` national-level forecasts  
 - `raw_data` directory containing the original files 
 - `scripts` directory for processing the files into CSVs
 
