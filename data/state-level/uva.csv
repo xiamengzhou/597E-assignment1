@@ -1,4 +1,4 @@
-Date,office,office,state,party,candidate,prediction
+date,model,office,state,party,candidate,prediction
 2020-10-27,UVA,P,AK,R,TRUMP,favored
 2020-10-27,UVA,P,AL,R,TRUMP,safe
 2020-10-27,UVA,P,AR,R,TRUMP,safe
