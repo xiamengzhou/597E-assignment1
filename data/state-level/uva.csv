@@ -1,103 +1,103 @@
 ,index,candidate,date,est_diff,est_share,est_share_2p,model,office,party,prediction,state,win_prob
-0,0,TRUMP,2020-10-27,,,,UVA,P,R,favored,AK,0.8
-1,56,BIDEN,2020-10-27,,,,UVA,P,D,not favored,AK,0.2
-2,1,TRUMP,2020-10-27,,,,UVA,P,R,safe,AL,1.0
-3,57,BIDEN,2020-10-27,,,,UVA,P,D,not safe,AL,0.0
-4,2,TRUMP,2020-10-27,,,,UVA,P,R,safe,AR,1.0
-5,58,BIDEN,2020-10-27,,,,UVA,P,D,not safe,AR,0.0
-6,3,BIDEN,2020-10-27,,,,UVA,P,D,lean,AZ,0.6
-7,59,TRUMP,2020-10-27,,,,UVA,P,R,not lean,AZ,0.4
-8,4,BIDEN,2020-10-27,,,,UVA,P,D,safe,CA,1.0
-9,60,TRUMP,2020-10-27,,,,UVA,P,R,not safe,CA,0.0
-10,61,TRUMP,2020-10-27,,,,UVA,P,R,not safe,CO,0.0
-11,5,BIDEN,2020-10-27,,,,UVA,P,D,safe,CO,1.0
-12,6,BIDEN,2020-10-27,,,,UVA,P,D,safe,CT,1.0
-13,62,TRUMP,2020-10-27,,,,UVA,P,R,not safe,CT,0.0
-14,63,TRUMP,2020-10-27,,,,UVA,P,R,not safe,DC,0.0
-15,7,BIDEN,2020-10-27,,,,UVA,P,D,safe,DC,1.0
-16,64,TRUMP,2020-10-27,,,,UVA,P,R,not safe,DE,0.0
-17,8,BIDEN,2020-10-27,,,,UVA,P,D,safe,DE,1.0
-18,9,BIDEN,2020-10-27,,,,UVA,P,D,lean,FL,0.6
-19,65,TRUMP,2020-10-27,,,,UVA,P,R,not lean,FL,0.4
-20,10,BIDEN,2020-10-27,,,,UVA,P,D,lean,GA,0.6
-21,66,TRUMP,2020-10-27,,,,UVA,P,R,not lean,GA,0.4
-22,67,TRUMP,2020-10-27,,,,UVA,P,R,not safe,HI,0.0
-23,11,BIDEN,2020-10-27,,,,UVA,P,D,safe,HI,1.0
-24,68,BIDEN,2020-10-27,,,,UVA,P,D,not lean,IA,0.4
-25,12,TRUMP,2020-10-27,,,,UVA,P,R,lean,IA,0.6
-26,13,TRUMP,2020-10-27,,,,UVA,P,R,safe,ID,1.0
-27,69,BIDEN,2020-10-27,,,,UVA,P,D,not safe,ID,0.0
-28,14,BIDEN,2020-10-27,,,,UVA,P,D,safe,IL,1.0
-29,70,TRUMP,2020-10-27,,,,UVA,P,R,not safe,IL,0.0
-30,15,TRUMP,2020-10-27,,,,UVA,P,R,favored,IN,0.8
-31,71,BIDEN,2020-10-27,,,,UVA,P,D,not favored,IN,0.2
-32,16,TRUMP,2020-10-27,,,,UVA,P,R,favored,KS,0.8
-33,72,BIDEN,2020-10-27,,,,UVA,P,D,not favored,KS,0.2
-34,17,TRUMP,2020-10-27,,,,UVA,P,R,safe,KY,1.0
-35,73,BIDEN,2020-10-27,,,,UVA,P,D,not safe,KY,0.0
-36,74,BIDEN,2020-10-27,,,,UVA,P,D,not safe,LA,0.0
-37,18,TRUMP,2020-10-27,,,,UVA,P,R,safe,LA,1.0
-38,75,TRUMP,2020-10-27,,,,UVA,P,R,not safe,MA,0.0
-39,19,BIDEN,2020-10-27,,,,UVA,P,D,safe,MA,1.0
-40,76,TRUMP,2020-10-27,,,,UVA,P,R,not safe,MD,0.0
-41,20,BIDEN,2020-10-27,,,,UVA,P,D,safe,MD,1.0
-42,21,BIDEN,2020-10-27,,,,UVA,P,D,safe,ME,1.0
-43,77,TRUMP,2020-10-27,,,,UVA,P,R,not safe,ME,0.0
-44,24,BIDEN,2020-10-27,,,,UVA,P,D,favored,MI,0.8
-45,80,TRUMP,2020-10-27,,,,UVA,P,R,not favored,MI,0.2
-46,25,BIDEN,2020-10-27,,,,UVA,P,D,favored,MN,0.8
-47,81,TRUMP,2020-10-27,,,,UVA,P,R,not favored,MN,0.2
-48,26,TRUMP,2020-10-27,,,,UVA,P,R,favored,MO,0.8
-49,82,BIDEN,2020-10-27,,,,UVA,P,D,not favored,MO,0.2
-50,83,BIDEN,2020-10-27,,,,UVA,P,D,not safe,MS,0.0
-51,27,TRUMP,2020-10-27,,,,UVA,P,R,safe,MS,1.0
-52,84,BIDEN,2020-10-27,,,,UVA,P,D,not favored,MT,0.2
-53,28,TRUMP,2020-10-27,,,,UVA,P,R,favored,MT,0.8
-54,29,BIDEN,2020-10-27,,,,UVA,P,D,lean,NC,0.6
-55,85,TRUMP,2020-10-27,,,,UVA,P,R,not lean,NC,0.4
-56,86,BIDEN,2020-10-27,,,,UVA,P,D,not safe,ND,0.0
-57,30,TRUMP,2020-10-27,,,,UVA,P,R,safe,ND,1.0
-58,31,TRUMP,2020-10-27,,,,UVA,P,R,favored,NE,0.8
-59,87,BIDEN,2020-10-27,,,,UVA,P,D,not favored,NE,0.2
-60,91,TRUMP,2020-10-27,,,,UVA,P,R,not favored,NH,0.2
-61,35,BIDEN,2020-10-27,,,,UVA,P,D,favored,NH,0.8
-62,36,BIDEN,2020-10-27,,,,UVA,P,D,safe,NJ,1.0
-63,92,TRUMP,2020-10-27,,,,UVA,P,R,not safe,NJ,0.0
-64,93,TRUMP,2020-10-27,,,,UVA,P,R,not safe,NM,0.0
-65,37,BIDEN,2020-10-27,,,,UVA,P,D,safe,NM,1.0
-66,38,BIDEN,2020-10-27,,,,UVA,P,D,favored,NV,0.8
-67,94,TRUMP,2020-10-27,,,,UVA,P,R,not favored,NV,0.2
-68,95,TRUMP,2020-10-27,,,,UVA,P,R,not safe,NY,0.0
-69,39,BIDEN,2020-10-27,,,,UVA,P,D,safe,NY,1.0
-70,96,BIDEN,2020-10-27,,,,UVA,P,D,not lean,OH,0.4
-71,40,TRUMP,2020-10-27,,,,UVA,P,R,lean,OH,0.6
-72,97,BIDEN,2020-10-27,,,,UVA,P,D,not safe,OK,0.0
-73,41,TRUMP,2020-10-27,,,,UVA,P,R,safe,OK,1.0
-74,42,BIDEN,2020-10-27,,,,UVA,P,D,safe,OR,1.0
-75,98,TRUMP,2020-10-27,,,,UVA,P,R,not safe,OR,0.0
-76,99,TRUMP,2020-10-27,,,,UVA,P,R,not favored,PA,0.2
-77,43,BIDEN,2020-10-27,,,,UVA,P,D,favored,PA,0.8
-78,100,TRUMP,2020-10-27,,,,UVA,P,R,not safe,RI,0.0
-79,44,BIDEN,2020-10-27,,,,UVA,P,D,safe,RI,1.0
-80,101,BIDEN,2020-10-27,,,,UVA,P,D,not safe,SC,0.0
-81,45,TRUMP,2020-10-27,,,,UVA,P,R,safe,SC,1.0
-82,102,BIDEN,2020-10-27,,,,UVA,P,D,not safe,SD,0.0
-83,46,TRUMP,2020-10-27,,,,UVA,P,R,safe,SD,1.0
-84,103,BIDEN,2020-10-27,,,,UVA,P,D,not safe,TN,0.0
-85,47,TRUMP,2020-10-27,,,,UVA,P,R,safe,TN,1.0
-86,104,BIDEN,2020-10-27,,,,UVA,P,D,not lean,TX,0.4
-87,48,TRUMP,2020-10-27,,,,UVA,P,R,lean,TX,0.6
-88,105,BIDEN,2020-10-27,,,,UVA,P,D,not safe,UT,0.0
-89,49,TRUMP,2020-10-27,,,,UVA,P,R,safe,UT,1.0
-90,50,BIDEN,2020-10-27,,,,UVA,P,D,safe,VA,1.0
-91,106,TRUMP,2020-10-27,,,,UVA,P,R,not safe,VA,0.0
-92,107,TRUMP,2020-10-27,,,,UVA,P,R,not safe,VT,0.0
-93,51,BIDEN,2020-10-27,,,,UVA,P,D,safe,VT,1.0
-94,108,TRUMP,2020-10-27,,,,UVA,P,R,not safe,WA,0.0
-95,52,BIDEN,2020-10-27,,,,UVA,P,D,safe,WA,1.0
-96,109,TRUMP,2020-10-27,,,,UVA,P,R,not favored,WI,0.2
-97,53,BIDEN,2020-10-27,,,,UVA,P,D,favored,WI,0.8
-98,110,BIDEN,2020-10-27,,,,UVA,P,D,not safe,WV,0.0
-99,54,TRUMP,2020-10-27,,,,UVA,P,R,safe,WV,1.0
-100,55,TRUMP,2020-10-27,,,,UVA,P,R,safe,WY,1.0
-101,111,BIDEN,2020-10-27,,,,UVA,P,D,not safe,WY,0.0
+0,0,Trump,2020-10-27,,,,UVA,P,R,favored,AK,0.8
+1,56,Biden,2020-10-27,,,,UVA,P,D,not favored,AK,0.2
+2,1,Trump,2020-10-27,,,,UVA,P,R,safe,AL,1.0
+3,57,Biden,2020-10-27,,,,UVA,P,D,not safe,AL,0.0
+4,2,Trump,2020-10-27,,,,UVA,P,R,safe,AR,1.0
+5,58,Biden,2020-10-27,,,,UVA,P,D,not safe,AR,0.0
+6,3,Biden,2020-10-27,,,,UVA,P,D,lean,AZ,0.6
+7,59,Trump,2020-10-27,,,,UVA,P,R,not lean,AZ,0.4
+8,4,Biden,2020-10-27,,,,UVA,P,D,safe,CA,1.0
+9,60,Trump,2020-10-27,,,,UVA,P,R,not safe,CA,0.0
+10,61,Trump,2020-10-27,,,,UVA,P,R,not safe,CO,0.0
+11,5,Biden,2020-10-27,,,,UVA,P,D,safe,CO,1.0
+12,6,Biden,2020-10-27,,,,UVA,P,D,safe,CT,1.0
+13,62,Trump,2020-10-27,,,,UVA,P,R,not safe,CT,0.0
+14,63,Trump,2020-10-27,,,,UVA,P,R,not safe,DC,0.0
+15,7,Biden,2020-10-27,,,,UVA,P,D,safe,DC,1.0
+16,64,Trump,2020-10-27,,,,UVA,P,R,not safe,DE,0.0
+17,8,Biden,2020-10-27,,,,UVA,P,D,safe,DE,1.0
+18,9,Biden,2020-10-27,,,,UVA,P,D,lean,FL,0.6
+19,65,Trump,2020-10-27,,,,UVA,P,R,not lean,FL,0.4
+20,10,Biden,2020-10-27,,,,UVA,P,D,lean,GA,0.6
+21,66,Trump,2020-10-27,,,,UVA,P,R,not lean,GA,0.4
+22,67,Trump,2020-10-27,,,,UVA,P,R,not safe,HI,0.0
+23,11,Biden,2020-10-27,,,,UVA,P,D,safe,HI,1.0
+24,68,Biden,2020-10-27,,,,UVA,P,D,not lean,IA,0.4
+25,12,Trump,2020-10-27,,,,UVA,P,R,lean,IA,0.6
+26,13,Trump,2020-10-27,,,,UVA,P,R,safe,ID,1.0
+27,69,Biden,2020-10-27,,,,UVA,P,D,not safe,ID,0.0
+28,14,Biden,2020-10-27,,,,UVA,P,D,safe,IL,1.0
+29,70,Trump,2020-10-27,,,,UVA,P,R,not safe,IL,0.0
+30,15,Trump,2020-10-27,,,,UVA,P,R,favored,IN,0.8
+31,71,Biden,2020-10-27,,,,UVA,P,D,not favored,IN,0.2
+32,16,Trump,2020-10-27,,,,UVA,P,R,favored,KS,0.8
+33,72,Biden,2020-10-27,,,,UVA,P,D,not favored,KS,0.2
+34,17,Trump,2020-10-27,,,,UVA,P,R,safe,KY,1.0
+35,73,Biden,2020-10-27,,,,UVA,P,D,not safe,KY,0.0
+36,74,Biden,2020-10-27,,,,UVA,P,D,not safe,LA,0.0
+37,18,Trump,2020-10-27,,,,UVA,P,R,safe,LA,1.0
+38,75,Trump,2020-10-27,,,,UVA,P,R,not safe,MA,0.0
+39,19,Biden,2020-10-27,,,,UVA,P,D,safe,MA,1.0
+40,76,Trump,2020-10-27,,,,UVA,P,R,not safe,MD,0.0
+41,20,Biden,2020-10-27,,,,UVA,P,D,safe,MD,1.0
+42,21,Biden,2020-10-27,,,,UVA,P,D,safe,ME,1.0
+43,77,Trump,2020-10-27,,,,UVA,P,R,not safe,ME,0.0
+44,24,Biden,2020-10-27,,,,UVA,P,D,favored,MI,0.8
+45,80,Trump,2020-10-27,,,,UVA,P,R,not favored,MI,0.2
+46,25,Biden,2020-10-27,,,,UVA,P,D,favored,MN,0.8
+47,81,Trump,2020-10-27,,,,UVA,P,R,not favored,MN,0.2
+48,26,Trump,2020-10-27,,,,UVA,P,R,favored,MO,0.8
+49,82,Biden,2020-10-27,,,,UVA,P,D,not favored,MO,0.2
+50,83,Biden,2020-10-27,,,,UVA,P,D,not safe,MS,0.0
+51,27,Trump,2020-10-27,,,,UVA,P,R,safe,MS,1.0
+52,84,Biden,2020-10-27,,,,UVA,P,D,not favored,MT,0.2
+53,28,Trump,2020-10-27,,,,UVA,P,R,favored,MT,0.8
+54,29,Biden,2020-10-27,,,,UVA,P,D,lean,NC,0.6
+55,85,Trump,2020-10-27,,,,UVA,P,R,not lean,NC,0.4
+56,86,Biden,2020-10-27,,,,UVA,P,D,not safe,ND,0.0
+57,30,Trump,2020-10-27,,,,UVA,P,R,safe,ND,1.0
+58,31,Trump,2020-10-27,,,,UVA,P,R,favored,NE,0.8
+59,87,Biden,2020-10-27,,,,UVA,P,D,not favored,NE,0.2
+60,91,Trump,2020-10-27,,,,UVA,P,R,not favored,NH,0.2
+61,35,Biden,2020-10-27,,,,UVA,P,D,favored,NH,0.8
+62,36,Biden,2020-10-27,,,,UVA,P,D,safe,NJ,1.0
+63,92,Trump,2020-10-27,,,,UVA,P,R,not safe,NJ,0.0
+64,93,Trump,2020-10-27,,,,UVA,P,R,not safe,NM,0.0
+65,37,Biden,2020-10-27,,,,UVA,P,D,safe,NM,1.0
+66,38,Biden,2020-10-27,,,,UVA,P,D,favored,NV,0.8
+67,94,Trump,2020-10-27,,,,UVA,P,R,not favored,NV,0.2
+68,95,Trump,2020-10-27,,,,UVA,P,R,not safe,NY,0.0
+69,39,Biden,2020-10-27,,,,UVA,P,D,safe,NY,1.0
+70,96,Biden,2020-10-27,,,,UVA,P,D,not lean,OH,0.4
+71,40,Trump,2020-10-27,,,,UVA,P,R,lean,OH,0.6
+72,97,Biden,2020-10-27,,,,UVA,P,D,not safe,OK,0.0
+73,41,Trump,2020-10-27,,,,UVA,P,R,safe,OK,1.0
+74,42,Biden,2020-10-27,,,,UVA,P,D,safe,OR,1.0
+75,98,Trump,2020-10-27,,,,UVA,P,R,not safe,OR,0.0
+76,99,Trump,2020-10-27,,,,UVA,P,R,not favored,PA,0.2
+77,43,Biden,2020-10-27,,,,UVA,P,D,favored,PA,0.8
+78,100,Trump,2020-10-27,,,,UVA,P,R,not safe,RI,0.0
+79,44,Biden,2020-10-27,,,,UVA,P,D,safe,RI,1.0
+80,101,Biden,2020-10-27,,,,UVA,P,D,not safe,SC,0.0
+81,45,Trump,2020-10-27,,,,UVA,P,R,safe,SC,1.0
+82,102,Biden,2020-10-27,,,,UVA,P,D,not safe,SD,0.0
+83,46,Trump,2020-10-27,,,,UVA,P,R,safe,SD,1.0
+84,103,Biden,2020-10-27,,,,UVA,P,D,not safe,TN,0.0
+85,47,Trump,2020-10-27,,,,UVA,P,R,safe,TN,1.0
+86,104,Biden,2020-10-27,,,,UVA,P,D,not lean,TX,0.4
+87,48,Trump,2020-10-27,,,,UVA,P,R,lean,TX,0.6
+88,105,Biden,2020-10-27,,,,UVA,P,D,not safe,UT,0.0
+89,49,Trump,2020-10-27,,,,UVA,P,R,safe,UT,1.0
+90,50,Biden,2020-10-27,,,,UVA,P,D,safe,VA,1.0
+91,106,Trump,2020-10-27,,,,UVA,P,R,not safe,VA,0.0
+92,107,Trump,2020-10-27,,,,UVA,P,R,not safe,VT,0.0
+93,51,Biden,2020-10-27,,,,UVA,P,D,safe,VT,1.0
+94,108,Trump,2020-10-27,,,,UVA,P,R,not safe,WA,0.0
+95,52,Biden,2020-10-27,,,,UVA,P,D,safe,WA,1.0
+96,109,Trump,2020-10-27,,,,UVA,P,R,not favored,WI,0.2
+97,53,Biden,2020-10-27,,,,UVA,P,D,favored,WI,0.8
+98,110,Biden,2020-10-27,,,,UVA,P,D,not safe,WV,0.0
+99,54,Trump,2020-10-27,,,,UVA,P,R,safe,WV,1.0
+100,55,Trump,2020-10-27,,,,UVA,P,R,safe,WY,1.0
+101,111,Biden,2020-10-27,,,,UVA,P,D,not safe,WY,0.0
